@@ -1,5 +1,5 @@
 Featured Stored Procedure: 
-+++++++++++++++++++++Sel_Frst_Col
++++++++++++++++++++++Sel_Frst_Col++++++++++++++++++++++
 The Sel_Frst_Col stored procedure is designed to dynamically retrieve the first N columns from a specified table in the database. Below is an overview of its functionality:
 
 Parameters:
